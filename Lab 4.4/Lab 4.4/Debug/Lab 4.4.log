@@ -1,0 +1,17 @@
+﻿  Complex.cpp
+  Money.cpp
+W:\OOP\Lab 4.4\Lab 4.4\Money.cpp(109,15): warning C4244: =: преобразование "double" в "long", возможна потеря данных
+W:\OOP\Lab 4.4\Lab 4.4\Money.cpp(110,17): warning C4244: =: преобразование "double" в "unsigned int", возможна потеря данных
+W:\OOP\Lab 4.4\Lab 4.4\Money.cpp(156,15): warning C4244: =: преобразование "double" в "long", возможна потеря данных
+W:\OOP\Lab 4.4\Lab 4.4\Money.cpp(157,17): warning C4244: =: преобразование "double" в "unsigned int", возможна потеря данных
+W:\OOP\Lab 4.4\Lab 4.4\Money.cpp(263,16): warning C4244: =: преобразование "double" в "long", возможна потеря данных
+W:\OOP\Lab 4.4\Lab 4.4\Money.cpp(279,16): warning C4244: =: преобразование "double" в "long", возможна потеря данных
+W:\OOP\Lab 4.4\Lab 4.4\Money.cpp(302,12): warning C4244: =: преобразование "double" в "long", возможна потеря данных
+  Source.cpp
+  Создание кода...
+W:\OOP\Lab 4.4\Lab 4.4\Money.cpp(174): warning C4715: Money::operator!=: значение возвращается не при всех путях выполнения
+W:\OOP\Lab 4.4\Lab 4.4\Money.cpp(167): warning C4715: Money::operator==: значение возвращается не при всех путях выполнения
+W:\OOP\Lab 4.4\Lab 4.4\Money.cpp(181): warning C4715: Money::operator>=: значение возвращается не при всех путях выполнения
+W:\OOP\Lab 4.4\Lab 4.4\Money.cpp(188): warning C4715: Money::operator<=: значение возвращается не при всех путях выполнения
+W:\OOP\Lab 4.4\Lab 4.4\Complex.cpp(84): warning C4715: Complex::equ: значение возвращается не при всех путях выполнения
+  Lab 4.4.vcxproj -> W:\OOP\Lab 4.4\Debug\Lab 4.4.exe
